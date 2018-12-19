@@ -1,7 +1,7 @@
 /**
-@Sirawit_Teachavanitch 5907101011
+@Adisak Sammarungrojh 5907401004
  * */
-package th.ac.utcc.cpe.sirawit;
+package th.ac.utcc.cpe.Adisak;
 
 	public class BubbleSortDouble {
 		private double [] element ;
